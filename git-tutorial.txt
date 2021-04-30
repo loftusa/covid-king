@@ -1,0 +1,14 @@
+To make a checkpoint:
+1. Open a terminal
+2. type `cd covid-king`
+3. type `git status` to see which files are currently uncheckpointed
+4. type `git add .` to add all uncheckpointed files
+5. type `git commit -m "<message>"` to save the current state of your files
+
+To revert to a previous checkpoint:
+1. Open a terminal
+2. type `cd covid-king`
+3. type `git log` to see the commit history
+    (type `q` to exit the log)
+4a. type `git checkout HEAD~n` where n is the number of commits you want to go back by
+4b. or type `git checkout <commit>` where <commit> is the hashtag for the specific commit you want to revert to
