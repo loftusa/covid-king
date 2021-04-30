@@ -9,6 +9,20 @@ To revert to a previous checkpoint:
 1. Open a terminal
 2. type `cd covid-king`
 3. type `git log` to see the commit history
-    (type `q` to exit the log)
+    (type `q` to exit the log)My area of expertise, in which I have been working for approximately 50 years, is human perception and memory
 4a. type `git checkout HEAD~n` where n is the number of commits you want to go back by
 4b. or type `git checkout <commit>` where <commit> is the hashtag for the specific commit you want to revert to
+
+To add your own changes to github:
+1. Open a terminal
+2. type `cd covid-king`
+3. commit your changes (using the 'to make a checkpoint' instructions)
+4. type `git push`
+5. Enter in your username and password when prompted
+
+To sync your own files with github's version:
+1. Open a terminal
+2. type `cd covid-king`
+3. type `git pull`
+
+If you get merge conflicts or other weird things, let me know and I'll show you how to fix it
