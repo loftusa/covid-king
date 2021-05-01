@@ -1,4 +1,5 @@
 For help with a function: shift-tab (or multiple tabs for deeper help)
+Alexander's github: https://github.com/loftusa/covid-king
 
 To make a checkpoint:
 1. Open a terminal
