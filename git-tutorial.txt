@@ -1,3 +1,5 @@
+For help with a function: shift-tab (or multiple tabs for deeper help)
+
 To make a checkpoint:
 1. Open a terminal
 2. type `cd covid-king`
