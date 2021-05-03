@@ -1,3 +1,16 @@
+New cell
+
+b to make a new cell below, a to make a new cell above
+
+
+To see data: new cell and type variable name or use print statement 
+
+To access matrices
+
+https://medium.com/dunder-data/selecting-subsets-of-data-in-pandas-6fcd0170be9c
+
+https://www.thedatalife.com/python-matrix-indexing-slicing/#:~:text=%20Python%20Matrix%20Indexing%20%28Slicing%29%20%201%20b.,used%20to%20select%20a%20range%20in...%20More%20
+
 For help with a function: shift-tab (or multiple tabs for deeper help)
 Alexander's github: https://github.com/loftusa/covid-king
 
