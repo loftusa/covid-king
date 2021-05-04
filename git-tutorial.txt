@@ -1,3 +1,13 @@
+Issues (5/3/21)
+
+Just one country with 1,1 plot doesn't work
+Some countries don't work, e.g., SOLVED
+Israel, ISR
+Tanaznia, TZA
+
+Setting future_day_count to a really big number like 200 doesn't make any difference on the plots
+
+
 New cell
 
 b to make a new cell below, a to make a new cell above
@@ -22,10 +32,10 @@ To make a checkpoint:
 5. type `git commit -m "<message>"` to save the current state of your files
 
 To revert to a previous checkpoint:
-1. Open a terminal
+1. Open a terminalgi
 2. type `cd covid-king`
 3. type `git log` to see the commit history
-    (type `q` to exit the log)My area of expertise, in which I have been working for approximately 50 years, is human perception and memory
+    (type `q` to exit the log)
 4a. type `git checkout HEAD~n` where n is the number of commits you want to go back by
 4b. or type `git checkout <commit>` where <commit> is the hashtag for the specific commit you want to revert to
 
